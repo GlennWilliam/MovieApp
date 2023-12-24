@@ -20,13 +20,7 @@
             </div>
         </div> <!-- end popular-actors -->
 
-        <div class="page-load-status my-8">
-            <div class="flex justify-center">
-                <div class="infinite-scroll-request spinner my-8 text-4xl">&nbsp;</div>
-            </div>
-            <p class="infinite-scroll-last">End of content</p>
-            <p class="infinite-scroll-error">Error</p>
-        </div>
+        
 
 
         <div class="flex justify-between mt-16">
