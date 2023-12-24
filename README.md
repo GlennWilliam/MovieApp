@@ -1,9 +1,11 @@
-![image](https://github.com/GlennWilliam/MovieApp/assets/121201497/da4425b0-1226-4017-bdf3-3e9f40353bed)
-![image](https://github.com/GlennWilliam/MovieApp/assets/121201497/bfc5b9dd-570b-47f6-9065-c83689d775c2)
-![image](https://github.com/GlennWilliam/MovieApp/assets/121201497/f64d056b-a6b3-43d9-afd6-fc858a8b3084)
-![image](https://github.com/GlennWilliam/MovieApp/assets/121201497/71087bc3-a52a-462f-bf4a-59b8bdbef461)
-
 # Laravel Movie Application
+
+![image](https://github.com/GlennWilliam/MovieApp/assets/121201497/870a4bd2-7065-470f-8a1e-1aafee0ae46e)
+![image](https://github.com/GlennWilliam/MovieApp/assets/121201497/42e99ca3-84c5-412a-8bf2-387ca69e44bf)
+![image](https://github.com/GlennWilliam/MovieApp/assets/121201497/13841b22-42b1-4638-81b8-575234471ec4)
+![image](https://github.com/GlennWilliam/MovieApp/assets/121201497/b758dcaa-f673-474f-bcba-02d088f01140)
+![image](https://github.com/GlennWilliam/MovieApp/assets/121201497/0f3f2933-fe5b-47cc-a57b-4d2d13fee635)
+![image](https://github.com/GlennWilliam/MovieApp/assets/121201497/26561122-2ded-4882-be62-3e65d6a7bc11)
 
 ## Overview
 
