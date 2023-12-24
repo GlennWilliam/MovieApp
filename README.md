@@ -1,6 +1,5 @@
 # Laravel Movie Application
 
-![image](https://github.com/GlennWilliam/MovieApp/assets/121201497/156dc2c9-4a8a-4152-84ce-33047e3d20a2)
 ![image](https://github.com/GlennWilliam/MovieApp/assets/121201497/870a4bd2-7065-470f-8a1e-1aafee0ae46e)
 ![image](https://github.com/GlennWilliam/MovieApp/assets/121201497/42e99ca3-84c5-412a-8bf2-387ca69e44bf)
 ![image](https://github.com/GlennWilliam/MovieApp/assets/121201497/13841b22-42b1-4638-81b8-575234471ec4)
