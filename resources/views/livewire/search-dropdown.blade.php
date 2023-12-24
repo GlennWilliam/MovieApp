@@ -1,7 +1,7 @@
 <div class="relative mt-3 md:mt-0" x-data="{ isOpen: true }" @click.away="isOpen = false">
     <input type="text" 
         wire:model.live.debounce.500ms="search" 
-        class="bg-gray-800 text-sm rounded-full w-64 px-4 pl-8 py-1 focus:outline-none focus:shadow-outline" 
+        class="bg-gray-300 text-sm rounded-full w-64 px-4 pl-8 py-1 focus:outline-none focus:shadow-outline" 
         placeholder="Search" 
         @focus="isOpen = true"
         @keydown="isOpen = true"
@@ -22,7 +22,7 @@
     </div>
     
     @if(strlen($search) >= 2)
-        <div class="z-30 absolute bg-gray-800 rounded w-64 mt-4" x-show.transition.opacity="isOpen">
+        <div class="z-30 absolute bg-gray-200 rounded w-64 mt-4" x-show.transition.opacity="isOpen">
             @if($searchResults->count() > 0)
                 <ul>
                     @foreach($searchResults as $result)
